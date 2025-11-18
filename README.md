@@ -1,1 +1,1 @@
-A cumulation of all the resources, tools and softwares used to develop and deploy an agentic AI application
+A cumulation of all the books, materials, and resources used t
